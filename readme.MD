@@ -31,3 +31,6 @@ kubectl apply -f flask-service.yaml
 - Docker
 - Kubernetes
 - Prometheus
+
+## UI ##
+<img src="https://github.com/Safdarahmedd/smart-image-gallery/blob/main/images/application-browser.png" alt="Image Search UI" width="600"/>
